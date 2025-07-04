@@ -7,7 +7,7 @@ header{
 body {
   font-family: Arial, sans-serif;
   scroll-behavior: smooth;
-  background-image: url('Universe.jpg');
+  background-image: url('images/Universe.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
